@@ -42,6 +42,10 @@ return {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
+	reported = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
 	scripting = {
 		"Scamming",
 		"he's advertising hacks (viruses)"
@@ -117,6 +121,14 @@ return {
 	mods = {
 		"Bullying",
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
+	},
+	stop = {
+		"Bullying",
+		"saying rude things to me, i can't take it anymore, i've had a really bad year"
+	},
+	lol = {
+		"Bullying",
+		"saying bad things about other people, bullying them"
 	},
 	gay = {
 		"Bullying",
