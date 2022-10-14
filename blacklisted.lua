@@ -158,7 +158,15 @@ return {
 		"Bullying",
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
+	dummy = {
+		"Bullying",
+		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
+	},
 	idiot = {
+		"Bullying",
+		"saying rude things to me, i can't take it anymore, i've had a really bad year"
+	},
+	idiotic = {
 		"Bullying",
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
@@ -199,6 +207,10 @@ return {
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
 	retard = {
+		"Bullying",
+		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
+	},
+	shut up = {
 		"Bullying",
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
