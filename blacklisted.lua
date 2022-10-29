@@ -3,6 +3,10 @@ return {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
+	hacks = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
 	hacking = {
 		"Scamming",
 		"he's advertising hacks (viruses)"
@@ -14,6 +18,10 @@ return {
 	cheat = {
 		"Scamming",
 		"he's advertising hacks (viruses)"		
+	},
+	cheats = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
 	},
 	cheating = {
 		"Scamming",
@@ -114,6 +122,10 @@ return {
 		"Bullying",
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
+	bruh = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
 	noob = {
 		"Bullying",
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
@@ -129,6 +141,18 @@ return {
 	lol = {
 		"Bullying",
 		"saying bad things about other people, bullying them"
+	},
+	yes = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
+	no = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
+	ok = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
 	},
 	gay = {
 		"Bullying",
@@ -250,9 +274,21 @@ return {
 		"Bullying",
 		"He's racist!"
 	},
+	bud = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
+	buddy = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
 	negr = {
 		"Bullying",
 		"He's racist!"
+	},
+	nerd = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
 	},
 	love = {
 		"Dating",
