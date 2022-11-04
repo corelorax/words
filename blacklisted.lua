@@ -354,4 +354,5 @@ return {
 		"Offsite Links",
 		"he offsite links"
 	},
+},
 };
