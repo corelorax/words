@@ -123,8 +123,8 @@ return {
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
 	bruh = {
-		"Scamming",
-		"he's advertising hacks (viruses)"
+		"Bullying",
+		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
 	noob = {
 		"Bullying",
@@ -142,17 +142,33 @@ return {
 		"Bullying",
 		"saying bad things about other people, bullying them"
 	},
+	killer = {
+		"Bullying",
+		"saying bad things about other people, bullying them"
+	},
+	monkey = {
+		"Bullying",
+		"saying bad things about other people, bullying them"
+	},
 	yes = {
-		"Scamming",
-		"he's advertising hacks (viruses)"
+		"Bullying",
+		"saying bad things about other people, bullying them"
 	},
 	no = {
-		"Scamming",
-		"he's advertising hacks (viruses)"
+		"Bullying",
+		"saying bad things about other people, bullying them"
 	},
 	ok = {
-		"Scamming",
-		"he's advertising hacks (viruses)"
+		"Bullying",
+		"saying bad things about other people, bullying them"
+	},
+	okay = {
+		"Bullying",
+		"saying bad things about other people, bullying them"
+	},
+	okie = {
+		"Bullying",
+		"saying bad things about other people, bullying them"
 	},
 	gay = {
 		"Bullying",
@@ -188,11 +204,11 @@ return {
 	},
 	idiot = {
 		"Bullying",
-		"saying rude things to me, i can't take it anymore, i've had a really bad year"
+		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
 	idiotic = {
 		"Bullying",
-		"saying rude things to me, i can't take it anymore, i've had a really bad year"
+		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
 	stupid = {
 		"Bullying",
@@ -258,11 +274,23 @@ return {
 		"Bullying",
 		"He's racist!"
 	},
+	cuh = {
+		"Bullying",
+		"He's racist!"
+	},
+	yo = {
+		"Bullying",
+		"He's racist!"
+	},
 	black = {
 		"Bullying",
 		"He's racist!"
 	},
 	asia = {
+		"Bullying",
+		"He's racist!"
+	},
+	yuh = {
 		"Bullying",
 		"He's racist!"
 	},
@@ -275,20 +303,20 @@ return {
 		"He's racist!"
 	},
 	bud = {
-		"Scamming",
-		"he's advertising hacks (viruses)"
+		"Bullying",
+		"He's racist!"
 	},
 	buddy = {
-		"Scamming",
-		"he's advertising hacks (viruses)"
+		"Bullying",
+		"He's racist!"
 	},
 	negr = {
 		"Bullying",
 		"He's racist!"
 	},
 	nerd = {
-		"Scamming",
-		"he's advertising hacks (viruses)"
+		"Bullying",
+		"He's racist!"
 	},
 	love = {
 		"Dating",
@@ -313,6 +341,10 @@ return {
 	war = {
 		"Bullying",
 		"he talking about russia ukraine war"
+	},
+	dis = {
+		"Offsite Links",
+		"he offsite links"
 	},
 	cord = {
 		"Offsite Links",
