@@ -61,7 +61,6 @@ words = {
     [' white '] = 'Bullying',
     ['ez l'] = 'Bullying',
     ['l ez'] = 'Bullying',
-    ['l'] = 'Bullying',
     ['negro'] = 'Bullying',
     ['nivver'] = 'Bullying',
     ['negar'] = 'Bullying',
