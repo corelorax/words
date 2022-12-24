@@ -91,7 +91,7 @@ words = {
     ['big'] = 'Inappropriate',
     ['small'] = 'Inappropriate',
     ['recording'] = 'Inappropriate',
-    ['f'] = 'Swearing',
+    ['hell'] = 'Swearing',
 }
 
 if not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents') or not game:GetService('ReplicatedStorage'):FindFirstChild('DefaultChatSystemChatEvents'):FindFirstChild('OnMessageDoneFiltering') then return end
