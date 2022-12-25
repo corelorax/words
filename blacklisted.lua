@@ -54,7 +54,6 @@ words = {
     ['worst'] = 'Bullying',
     ['fat'] = 'Bullying',
     ['imagine'] = 'Bullying',
-    ['so?'] = 'Bullying',
     ['hack'] = 'Scamming',
     ['hacker'] = 'Scamming',
     ['exploit'] = 'Scamming',
